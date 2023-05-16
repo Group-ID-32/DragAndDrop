@@ -1,0 +1,68 @@
+table {
+    border-collapse: collapse;
+    width: 300px;
+    height: 300px;
+  }
+  
+  td {
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  }
+  
+  .box {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    text-align: center;
+    line-height: 80px;
+    cursor: move;
+  }
+  
+  #box1 {
+    background-color: #f0870f;
+  }
+  
+  #box2 {
+    background-color: #00FF00;
+  }
+  
+  #box3 {
+    background-color: #0000FF;
+  }
+  
+  #box4 {
+    background-color: #FFFF00;
+  }
+  
+  #box5 {
+    background-color: #dd42dd;
+  }
+  
+  #box6 {
+    background-color: #00FFFF;
+  }
+  
+  #box7 {
+    background-color: #C0C0C0;
+  }
+  
+  #box8 {
+    background-color: #8ac5aa;
+  }
+  
+  #box9 {
+    background-color: #f023a1;
+  }
+  #undoButton {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    color: #000;
+  }
+  
+  
+  .fade {
+    opacity: 0.4;
+  }  
